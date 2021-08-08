@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Groww-Assesment/static/css/main.f09f0a1c.chunk.css",
+    "main.js": "/Groww-Assesment/static/js/main.39965f07.chunk.js",
+    "main.js.map": "/Groww-Assesment/static/js/main.39965f07.chunk.js.map",
+    "runtime-main.js": "/Groww-Assesment/static/js/runtime-main.3201af0f.js",
+    "runtime-main.js.map": "/Groww-Assesment/static/js/runtime-main.3201af0f.js.map",
+    "static/js/2.b7643598.chunk.js": "/Groww-Assesment/static/js/2.b7643598.chunk.js",
+    "static/js/2.b7643598.chunk.js.map": "/Groww-Assesment/static/js/2.b7643598.chunk.js.map",
+    "index.html": "/Groww-Assesment/index.html",
+    "static/css/main.f09f0a1c.chunk.css.map": "/Groww-Assesment/static/css/main.f09f0a1c.chunk.css.map",
+    "static/js/2.b7643598.chunk.js.LICENSE.txt": "/Groww-Assesment/static/js/2.b7643598.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3201af0f.js",
+    "static/js/2.b7643598.chunk.js",
+    "static/css/main.f09f0a1c.chunk.css",
+    "static/js/main.39965f07.chunk.js"
+  ]
+}
